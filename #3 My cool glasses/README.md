@@ -11,4 +11,3 @@ I think this is good practise to not apply some modifiers like bevel or subdivis
 ---
 Also check my photo in these glasses :D
 
-![image](https://github.com/user-attachments/assets/77c68d9a-71cf-459c-b81b-af34571780e8)

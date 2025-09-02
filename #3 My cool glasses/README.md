@@ -8,6 +8,4 @@
 I think this is good practise to not apply some modifiers like bevel or subdivision surface because if you doing model for game you can easily make for example 3 models: low quality, mid and good quality. Oh, forgor that most devs dgaf about optimization now ^^ 
 
 
----
-Also check my photo in these glasses :D
 
